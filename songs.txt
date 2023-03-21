@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 happy^^
-=======
-happy^^
-veryHappySongs
+veryHappySongs--
 sad-songs :""
->>>>>>> sad-songs
+verySadSongs
